@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "112-1127487_santa-claus-clipart-transparent-background-transparent-santa-claus.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

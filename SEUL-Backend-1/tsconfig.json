@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "esModuleInterop": true,
+    "target": "es6",
+    "moduleResolution": "node",
+    "sourceMap": true,
+    "outDir": "dist",
+
+
+    // Needed for TypeORM
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true
+  },
+  "lib": ["es2015"]
+}
